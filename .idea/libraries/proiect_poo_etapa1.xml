@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="proiect-poo-etapa1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jackson-databind-2.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jackson-core-2.9.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jackson-annotations-2.9.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
